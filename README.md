@@ -1,15 +1,11 @@
 == TUGAS AKHIR PEMROGRAMAN DASAR - KELAS 01 ==
 
 Anggota Kelompok 6:
-Fahri Muhammad Zaky (2506593153)
-
-Alsa Rahim Amsel (2506605273)
-
-Junaid Ahmad Bawazier (2506593531)
-
-Teuku Muhammad Syah Althaf (2506599491)
-
-Hibban Farras Attaqy (2506598886)
+- Fahri Muhammad Zaky (2506593153)
+- Alsa Rahim Amsel (2506605273)
+- Junaid Ahmad Bawazier (2506593531)
+- Teuku Muhammad Syah Althaf (2506599491)
+- Hibban Farras Attaqy (2506598886)
 
 == Sistem Zonasi dan Rekomendasi Diversifikasi UMKM Retail ==
 
